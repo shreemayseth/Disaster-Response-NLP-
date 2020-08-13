@@ -1,6 +1,4 @@
-# Disaster-Response-NLP-
-
-# Disaster Response Pipeline Project
+# Disaster Response Pipeline Project(NLP)
 
 ## Project Motivation
 
