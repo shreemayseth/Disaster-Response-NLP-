@@ -30,12 +30,3 @@ In this project, I apply skills I learned in Data Engineering Section to analyze
 
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
-
-3. Go to http://0.0.0.0:3001/
-
-![ScreenShot](img.png)
-
-## Example
-Type in: We have a lot of problem at Delma 75 Avenue Albert Jode, those people need water and food.
-
-![Example](Example.png)
